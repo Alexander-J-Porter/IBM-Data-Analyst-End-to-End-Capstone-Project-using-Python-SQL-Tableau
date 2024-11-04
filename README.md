@@ -2,7 +2,7 @@
 
 Parts 1 through 4 utilize Python and involve data collection, wrangling, exploratory analysis, and visualization. 
 Part 5 is the dashboard created with IBM Cognos Analytics, accessible from **`IBM_Capstone_Dashboard.pdf`**.
-Part 6 is the PowerPoint presentation, accessible from **`IBM_Capstone_Presentation.pdf`**.
+Part 6 is the presentation, accessible from **`IBM_Capstone_Presentation.pdf`**.
 
 **For Parts 5 and 6: GitHub does not provide previews of PDF files therefore they must be downloaded and viewed on your local device.**
 
