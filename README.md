@@ -1,4 +1,4 @@
-### **NOTE:** The problem statement for this project is defined below. All of the parts are accessible from one Jupyter notebook in this repository which is **`IBM_Capstone_Project.ipynb`**
+### **NOTE:** The problem statement for this project is defined below. All of the parts are accessible from one Jupyter notebook in this repository which is **`IBM_Capstone_Project.ipynb`**.
 
 Parts 1 through 4 utilize Python and involve data collection, wrangling, exploratory analysis, and visualization. 
 Part 5 is the dashboard created with IBM Cognos Analytics, accessible from **`IBM_Capstone_Dashboard.pdf`**.
