@@ -28,7 +28,7 @@ Further notes and comments on the project are included in the Jupyter notebook.
 * Gain insights into current programming and database trends that can inform future hiring and training strategies.
 * Understand how job and career satisfaction correlate with professional development opportunities, allowing for tailored employee engagement initiatives.
 * Recognize the importance of community involvement and open-source contributions in enhancing developer job satisfaction.
-* Develop a comprehensive understanding of the diverse needs within the developer community, leading to improved talent acquisition and retention strategies.
+* Develop a comprehensive understanding of the diverse needs within the developer community, leading to improved talent acquisition strategies and retention rate growth of 20%.
 
 **Data Sources:**
 
